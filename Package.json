@@ -1,0 +1,12 @@
+{
+  "name": "bravebot",
+  "version": "1.0.0",
+  "main": "Parser_tg.js",
+  "scripts": {
+    "start": "node Parser_tg.js"
+  },
+  "dependencies": {
+    "node-fetch": "^2.6.7",
+    "ws": "^8.13.0"
+  }
+}
